@@ -33,7 +33,7 @@ from networkx.drawing.nx_agraph import graphviz_layout
   
 ## Key Features
 * Data Preprocessing
-  - Uses haversine formula to calculate distance between two lat long points
+  - Uses [Harversine Formula](http://www.movable-type.co.uk/scripts/latlong.html) to calculate distance between two lat long points
   - Splitting necessary as a road segment may not stop at every intersection
   - Manages the list of nodes associated with a street
 * Visualization of the Entire CTA Bus Network
