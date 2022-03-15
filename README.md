@@ -41,10 +41,14 @@ from networkx.drawing.nx_agraph import graphviz_layout
 * Use Activity and Gravity Score to Evaluate Traffic Congestion
   
 <img src="https://github.com/GODZAOZAO/optimal-bus-lane/blob/main/Activity%20Score.png" width="500" height="100"/> <img src="https://github.com/GODZAOZAO/optimal-bus-lane/blob/main/Gravity%20Score.png" width="500" height="100"/>
-  
-</p>
  
   
 ## Results
 <img src="https://github.com/GODZAOZAO/optimal-bus-lane/blob/main/Congestion_Chicago.png" width="500" height="600"/> <img src="https://github.com/GODZAOZAO/optimal-bus-lane/blob/main/All_Traffic_Chicago.png" width="500" height="600"/>
+
+<p align="center">
+  <img src="https://github.com/GODZAOZAO/optimal-bus-lane/blob/main/Activity_Table.png" width="500" height="600"/>
+  <img src="https://github.com/GODZAOZAO/optimal-bus-lane/blob/main/Gravity_Table.png" width="500" height="600"/>
+</p>
+  
 
